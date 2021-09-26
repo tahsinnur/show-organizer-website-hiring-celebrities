@@ -15,7 +15,7 @@ You can organize a show or concert or both with us
 We work as an agency and contact with 
 your favourite artists and hire them
 
-Markup: * ### `Calculate Costing`
+* ### `Calculate Costing`
 
 You can see our featured artists and
 their name, image, job and wages. 
