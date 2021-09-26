@@ -21,5 +21,3 @@ You can see our featured artists and
 their name, image, job and wages. 
 We calculate and show you the total costing 
 according to your choice
-
-*
