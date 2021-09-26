@@ -4,7 +4,7 @@ import './Performer.css'
 const Performer = (props) => {
     const {img, name, age, job,country, wage} = props.performer;
     return (
-        <div>
+        <div className="col">
             <div className="card h-100 performer">
                 <img style={{height:"300px", borderRadius:"50%", padding: "20px"}} src={img} className="card-img-top" alt="..."/>
                 <div className="card-body">

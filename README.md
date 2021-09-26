@@ -12,12 +12,14 @@ You can organize a show or concert or both with us
 
 ### `Hire Performers`
 
-We work as an agency and contact with
-verious artists and hire them
+We work as an agency and contact with 
+your favourite artists and hire them
 
-### `Calculate Costing`
+Markup: * ### `Calculate Costing`
 
 You can see our featured artists and
 their name, image, job and wages. 
 We calculate and show you the total costing 
 according to your choice
+
+*

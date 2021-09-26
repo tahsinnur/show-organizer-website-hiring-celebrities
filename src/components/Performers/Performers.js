@@ -8,7 +8,7 @@ const Performers = () => {
     const [cart, setCart] = useState([]);
 
     useEffect( () => {
-        fetch('./performers.json')
+        fetch('./performers.JSON')
         .then(res => res.json())
         .then(data => setPerformers(data))
     } , [])

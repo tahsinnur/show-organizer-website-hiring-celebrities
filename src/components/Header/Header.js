@@ -23,7 +23,7 @@ const Header = () => {
                     <a className="nav-link active text-white fs-4" aria-current="page" href="/contact">Contact Us</a>
                     </li>
                 </ul>
-                <div class="d-flex">
+                <div className="d-flex">
                     <input className="me-2 px-3 rounded border-0" type="search" placeholder="Search Artist" aria-label="Search"/>
                     <button className="btn bg-dark text-white" type="submit">Search</button>
                 </div>
@@ -33,7 +33,7 @@ const Header = () => {
             <div className="container mt-2">
                 <h3 className="text-uppercase fw-bold">We can make your show awesome</h3>
                 <h1 className="text-uppercase fw-bold">Hire Now !!!</h1>
-                <h2 className="text-uppercase">Total Budget: <span className="fs-1">300 Million</span></h2>
+                <h2 className="text-uppercase">Total Budget: <span className="fs-1">30 Million</span></h2>
             </div>
         </div>
     );

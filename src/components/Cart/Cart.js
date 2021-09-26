@@ -18,7 +18,7 @@ const Cart = (props) => {
                 {
                     cart.map(performerInCart => <div style={{backgroundColor:"#a90455"}} className="d-flex my-2 align-items-center p-2 rounded">
                         <div>
-                            <img style={{height:"100px", width:"100px", borderRadius:"50px"}} src={performerInCart.img} alt="" />
+                            <img style={{height:"90px", width:"90px", borderRadius:"50px"}} src={performerInCart.img} alt="" />
                         </div>
                         <div>
                             <p className="fs-4 ms-2 text-white">{performerInCart.name}</p>
