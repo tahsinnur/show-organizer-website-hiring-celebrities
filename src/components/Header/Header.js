@@ -3,7 +3,7 @@ import './Header.css';
 
 const Header = () => {
     return (
-        <div style={{fontFamily:"'Rajdhani', sans-serif"}}>
+        <div>
             <nav style={{backgroundColor:'#a90455'}} className="navbar navbar-expand-lg navbar-light">
             <div className="container">
                 <a className="navbar-brand text-white
@@ -27,7 +27,9 @@ const Header = () => {
             </div>
             </nav>
             <div className="container mt-2">
-                <h3 className="text-uppercase">We can make your show awesome</h3>
+                <h3 className="text-uppercase fw-bold">We can make your show awesome</h3>
+                <h1 className="text-uppercase fw-bold">Hire Now !!!</h1>
+                <h2 className="text-uppercase">Total Budget: <span className="fs-1">5000000</span></h2>
             </div>
         </div>
     );
