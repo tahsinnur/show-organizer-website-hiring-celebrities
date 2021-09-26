@@ -1,6 +1,6 @@
 # SHOWMAKER A React App
 
-This project created by Tahsin Nur [SHOWMAKER APP](https://github.com/facebook/create-react-app).
+This project created by Tahsin Nur [SHOWMAKER APP](https://showmaker-spa-react.netlify.app/).
 
 ## Features
 
