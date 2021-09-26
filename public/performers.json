@@ -3,6 +3,7 @@
     "_id": "614f7f6669167561950ef235",
     "name": "Kevin Hart",
     "job": "Comedian",
+    "country": "USA",
     "age": 42,
     "wage": 1000000,
     "img": "https://images-na.ssl-images-amazon.com/images/S/amzn-author-media-prod/4237evohdno3t2rsouqb5med7r._SX450_.jpg"
@@ -11,6 +12,7 @@
     "_id": "614f7f66690f92de3d643fd5",
     "name": "Naveed Mahbub",
     "job": "Comedian",
+    "country": "Bangladesh",
     "age": 40,
     "wage": 90000,
     "img": "https://jessicamudditt.files.wordpress.com/2010/11/dsc_0091-1.jpg"
@@ -19,46 +21,52 @@
     "_id": "614f7f666595398888086fd4",
     "name": "Katy Perry",
     "job": "Singer",
+    "country": "USA",
     "age": 36,
-    "wage": 200000,
+    "wage": 1500000,
     "img": "https://etcanada.com/wp-content/uploads/2021/07/CP126448790.jpg?quality=80&strip=all"
   },
   {
     "_id": "614f7f66ab434a41b81dd4ba",
     "name": "Fuad Almuqtadir",
     "job": "Singer",
+    "country": "Bangladesh",
     "age": 41,
-    "wage": 50000,
+    "wage": 80000,
     "img": "https://www.techandteen.com/wp-content/uploads/2019/05/845331968_n.jpg"
   },
   {
     "_id": "614f7f66e0f179e53e2c36b0",
     "name": "Solaiman Shukhon",
     "job": "Motivational Speaker",
+    "country": "Bangladesh",
     "age": 38,
-    "wage": 70000,
+    "wage": 100000,
     "img": "https://miro.medium.com/max/957/0*nEpaEIjBxmVvcYUM"
   },
   {
     "_id": "614f7f66c489ca5a7cca7d0f",
     "name": "Ashraful Alom Saeed",
     "job": "Actor",
+    "country": "Bangladesh",
     "age": 30,
-    "wage": 30000,
+    "wage": 70000,
     "img": "https://i0.wp.com/bdexamhelp.com/wp-content/uploads/2020/07/HERO-ALAM-LIVE-CIP-1.jpg?resize=755%2C954&quality=95&strip=all&ssl=1"
   },
   {
     "_id": "614f7f664e7b59c7cd63415d",
     "name": "Tahsan Rahman Khan",
     "job": "Singer, Actor",
+    "country": "Bangladesh",
     "age": 41,
-    "wage": 100000,
+    "wage": 200000,
     "img": "https://media-eng.dhakatribune.com/uploads/2019/11/tahsan-web-1574170968575.gif"
   },
   {
     "_id": "614f7f66618d281972ef77b3",
     "name": "Shakib Khan",
     "job": "Actor",
+    "country": "Bangladesh",
     "age": 42,
     "wage": 400000,
     "img": "https://images.prothomalo.com/prothomalo-english/import/media/2019/06/06/bdb8a483d1745502edf9c03ffa6d7f5c-90ecd55295de8ede6a69db3c4e631c98-5cf8af39c4ab6.jpg"
@@ -67,6 +75,7 @@
     "_id": "614f7f668198a3473341c8fa",
     "name": "Yamin Khan",
     "job": "Comedian",
+    "country": "Bangladesh",
     "age": 30,
     "wage": 30000,
     "img": "https://scontent.fdac24-1.fna.fbcdn.net/v/t1.6435-9/40228552_10101859956444784_5541762419031801856_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=174925&_nc_ohc=j_ja5V0gJiwAX8MAicZ&_nc_oc=AQn_ITajsQvIxB9Dt8-kTFj4mv9N-ODV6pFrqwzLqWTSXyfjiK4p04l5d431p1YAD0c&_nc_ht=scontent.fdac24-1.fna&oh=6de97ff95663204b269492eca016dc3a&oe=61738BB9"
@@ -75,14 +84,16 @@
     "_id": "614f7f66320326faa75861ad",
     "name": "Tawhid Afridi",
     "job": "YouTuber",
+    "country": "Bangladesh",
     "age": "25",
-    "wage": 35000,
+    "wage": 60000,
     "img": "https://starsunfolded.co/wp-content/uploads/2021/08/Tawhid-Afridi-.jpg"
   },
   {
     "_id": "614f7f66630b4b8877a30eec",
     "name": "Iftekhar Rafsan",
     "job": "YouTuber, Food Blogger",
+    "country": "Bangladesh",
     "age": 22,
     "wage": 25000,
     "img": "https://yt3.ggpht.com/ytc/AKedOLTyt9OcPZRGMycongggYOLO03wf895chVWTzGKXhQ=s900-c-k-c0x00ffffff-no-rj"
@@ -91,6 +102,7 @@
     "_id": "614f7f6640cefc1d26bb499c",
     "name": "Prottoy Heron",
     "job": "YouTuber",
+    "country": "Bangladesh",
     "age": "22",
     "wage": 30000,
     "img": "https://i.pinimg.com/originals/e2/21/34/e221345e338760095cf38ce9d03c191b.jpg"
